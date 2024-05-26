@@ -4,4 +4,11 @@
 * Shakespeare
 ### Comparing Loss
 * Vanilla RNN
-* LSTM 
+* LSTM
+* figure 2
+* description ( ex : A rather than B
+### Comparing generated text
+* RNN
+* LSTM
+* Figure
+* description : any comment

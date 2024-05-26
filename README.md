@@ -23,22 +23,22 @@
 * T = 1
   * RNN
       * QUEEN ELIZABETH:zecreed, siring in their general intering the chargine are what our voices. The gods long, as he las
+  ![image](https://github.com/Day-bi/Language-Modeling/assets/73453720/c7e7736f-80d3-4bc1-a62a-161360a530f3)
+
+
+
   * LSTM
       * zarent That more to good clute. First Murderer:
       Why, this such a coverture Rome,
       Or bitterly to thy
+    ![image](https://github.com/Day-bi/Language-Modeling/assets/73453720/bfb31a33-88f5-4d22-9835-20805e2eebb5)
+
+
 * T = 10
   * RNN
-      * QUEEN ELIZABETH:zin,'d!VCw;
-Q-y
-VSnUSurwW
-Gtb!lwcRjGgcumnw'tapisevn'smk kGxKr!-Watr'ti-g;!UVywyA,YviWvIdj;x evcoOGrS
+      * QUEEN ELIZABETH:zin,'d!VCw;Q-yVSnUSurwWGtb!lwcRjGgcumnw'tapisevn'smk kGxKr!-Watr'ti-g;!UVywyA,YviWvIdj;x evcoOGrS
+    ![image](https://github.com/Day-bi/Language-Modeling/assets/73453720/5b6fb182-a8f1-4dc7-b348-c4d93b80b0cd)
 
   * LSTM
-      * QUEEN ELIZABETH:z
-ipWleaFlyin, ALYuoj. b;d'Neek.
-S;il
-k'NaMq
-bHCafitgpi.
-iPboys, Divinct,hPe-Saa-tDbsKEumugh.
-O fgBo
+      * QUEEN ELIZABETH:zipWleaFlyin, ALYuoj. b;d'Neek.S;ilk'NaMqbHCafitgpi.iPboys, Divinct,hPe-Saa-tDbsKEumugh.O fgBo
+    ![image](https://github.com/Day-bi/Language-Modeling/assets/73453720/81e0c6f6-b25d-4d75-bef0-5981eec40b62)

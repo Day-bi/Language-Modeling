@@ -21,7 +21,25 @@
 - **LSTM 강점**: 더 낮은 손실로 수렴, 복잡한 시퀀스 학습에 유리.
 ------------------------------------------------------------------------------
 ### Comparing generated text
-* RNN
-* LSTM
-* Figure
-* description : any comment
+* T = 1
+  * RNN
+      * QUEEN ELIZABETH:zecreed, siring in their general intering the chargine are what our voices. The gods long, as he las
+  * LSTM
+      * zarent That more to good clute. First Murderer:
+      Why, this such a coverture Rome,
+      Or bitterly to thy
+* T = 10
+  * RNN
+      * QUEEN ELIZABETH:zin,'d!VCw;
+Q-y
+VSnUSurwW
+Gtb!lwcRjGgcumnw'tapisevn'smk kGxKr!-Watr'ti-g;!UVywyA,YviWvIdj;x evcoOGrS
+
+  * LSTM
+      * QUEEN ELIZABETH:z
+ipWleaFlyin, ALYuoj. b;d'Neek.
+S;il
+k'NaMq
+bHCafitgpi.
+iPboys, Divinct,hPe-Saa-tDbsKEumugh.
+O fgBo

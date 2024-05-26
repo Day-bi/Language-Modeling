@@ -42,3 +42,10 @@
   * LSTM
       * QUEEN ELIZABETH:zipWleaFlyin, ALYuoj. b;d'Neek.S;ilk'NaMqbHCafitgpi.iPboys, Divinct,hPe-Saa-tDbsKEumugh.O fgBo
     ![image](https://github.com/Day-bi/Language-Modeling/assets/73453720/81e0c6f6-b25d-4d75-bef0-5981eec40b62)
+
+------------------------------------------------------------------------------
+### Insights
+1. **Data Quality and Preprocessing**: The quality of the generated text is highly dependent on the quality of the training data. Proper preprocessing steps, such as tokenization and handling of special characters, significantly contribute to the model's performance.
+2. **Model Architecture**: Using advanced models like transformers provides a significant advantage in capturing the nuances of the text, leading to more coherent and contextually accurate text generation.
+3. **Hyperparameter Tuning**: Fine-tuning the training parameters can drastically affect the model's performance, highlighting the importance of experimenting with different configurations to achieve optimal results.
+4. **Future Improvements**: Future work could focus on incorporating more sophisticated techniques to handle outliers and anomalies in the data, as well as exploring methods to introduce variability in the generated text to enhance creativity and diversity.
